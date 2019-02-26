@@ -1,6 +1,6 @@
 {
     "name": "electronautoupdate",
-    "version": "0.1.10",
+    "version": "0.1.11",
     "author": "ZaninAndrea",
     "description": "An example of an autoupdating electron app",
     "repository": "https://github.com/ZaninAndrea/electron-autoupdate-example",
